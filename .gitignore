@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+dist/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# WebView2 runtime user data (created at first launch)
+*.exe.WebView2/
+
+# IDE
+.idea/
+
+# OS
+Thumbs.db
+desktop.ini
